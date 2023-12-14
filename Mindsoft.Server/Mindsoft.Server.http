@@ -1,0 +1,6 @@
+@Mindsoft.Server_HostAddress = http://localhost:5268
+
+GET {{Mindsoft.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
